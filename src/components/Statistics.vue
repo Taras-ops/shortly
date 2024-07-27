@@ -16,15 +16,15 @@ import StatisticsCard from './StatisticsCard.vue';
       </div>
       <div class="statistics-cards-wrapper">
         <StatisticsCard
-          iconName="icon-brand-recognition.svg"
+          iconName="icon-brand-recognition"
           title="Brand Recognition"
           description="Boost your brand recognition with each click. Generic links don’t mean a thing. Branded links help instil confidence in your content." />
         <StatisticsCard
-          iconName="icon-detailed-records.svg"
+          iconName="icon-detailed-records"
           title="Detailed Records"
           description="Gain insights into who is clicking your links. Knowing when and where people engage with your content helps inform better decisions." />
         <StatisticsCard
-          iconName="icon-fully-customizable.svg"
+          iconName="icon-fully-customizable"
           title="Fully Customizable"
           description="Improve brand awareness and content discoverability through customizable links, supercharging audience engagement." />
       </div>

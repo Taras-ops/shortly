@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://shortly-lyart-nu.vercel.app/](https://shortly-lyart-nu.vercel.app/)
 
 ## My process
 
@@ -42,4 +42,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Taras-ops)
+- Frontend Mentor - [@Taras-ops](https://www.frontendmentor.io/profile/Taras-ops)
