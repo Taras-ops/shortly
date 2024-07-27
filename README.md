@@ -42,4 +42,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Taras-ops)
+- Frontend Mentor - [@Taras-ops](https://www.frontendmentor.io/profile/Taras-ops)
